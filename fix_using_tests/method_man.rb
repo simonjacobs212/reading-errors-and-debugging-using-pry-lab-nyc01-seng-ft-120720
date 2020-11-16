@@ -6,6 +6,6 @@ def start_game(player1, player2)
 end
 
 def play_game(player2, player1)
-  message = "#{player1} is better than #{player2}"
+  message = "#{player2} is better than #{player1}"
   message
 end
