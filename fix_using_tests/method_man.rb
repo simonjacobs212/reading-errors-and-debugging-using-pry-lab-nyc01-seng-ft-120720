@@ -5,7 +5,7 @@ def start_game(player1, player2)
   greeting
 end
 
-def play_game(player2)
+def play_game(player2, player1)
   message = "#{player1} is better than #{player2}"
   message
 end
