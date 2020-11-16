@@ -9,3 +9,5 @@ def snake_it_up(string)
   end
   binding.pry
 end
+
+snake_it_up("snake")
